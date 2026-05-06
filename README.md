@@ -1,6 +1,6 @@
 # TryHackMe SOC Level 1 Writeups
 
-This repository documents selected writeups from my **TryHackMe SOC Level 1** learning path. The goal is to practice SOC analyst skills and explain my investigation process in a professional way.
+This repository documents selected writeups from my TryHackMe SOC Level 1 learning path. The goal is to practice SOC analyst skills and explain my investigation process in a professional, ethical way.
 
 These writeups focus on reasoning, analysis, remediation, and lessons learned. They do not include TryHackMe flags, direct room answers, or step-by-step solution dumps.
 
@@ -28,7 +28,6 @@ I will only publish selected rooms that show real analyst thinking. Each writeup
 - How I reached my conclusion
 - What remediation steps I would recommend
 - What I learned from the room
-- How I would explain the investigation in an interview
 
 ## What This Repository Will Not Include
 
@@ -43,16 +42,15 @@ To keep this professional and ethical, this repository will not include:
 
 Each writeup will follow this structure:
 
-1. **Room Name**
-2. **Objective**
-3. **Scenario Summary**
-4. **Tools Used**
-5. **Key Evidence**
-6. **Analysis**
-7. **MITRE ATT&CK Mapping**
-8. **Recommended Remediation**
-9. **Lessons Learned**
-10. **Interview Talking Point**
+1. Room Name
+2. Objective
+3. Scenario Summary
+4. Tools Used
+5. Key Evidence
+6. Analysis
+7. MITRE ATT&CK Mapping
+8. Recommended Remediation
+9. Lessons Learned
 
 ## Current Focus
 
