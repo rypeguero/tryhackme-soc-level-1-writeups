@@ -10,7 +10,7 @@ This exercise involved reviewing multiple alerts from an alert management queue.
 
 The purpose of the triage process was to avoid relying only on alert severity and instead make decisions based on evidence, environment context, and suspicious indicators.
 
-![SOC alert triage dashboard screenshot](writeups/alert-triage/images/alert-triage-summary.png)
+![SOC alert triage dashboard screenshot](https://github.com/rypeguero/tryhackme-soc-level-1/blob/main/writeups/alert-triage/images/alert-triage-summary.png?raw=true)
 
 ## Tools Used
 
