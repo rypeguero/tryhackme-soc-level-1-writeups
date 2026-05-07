@@ -1,8 +1,14 @@
 # TryHackMe SOC Level 1 Writeups
 
-This repository documents selected writeups from my TryHackMe SOC Level 1 learning path. The goal is to practice SOC analyst skills and explain my investigation process in a professional, ethical way.
+This repository documents selected writeups from my TryHackMe SOC Level 1 learning path. The goal is to practice Security Operations Center (SOC) analyst skills and explain my investigation process in a professional, ethical way.
 
 These writeups focus on reasoning, analysis, remediation, and lessons learned. They do not include TryHackMe flags, direct room answers, or step-by-step solution dumps.
+
+## Published Writeups
+
+| Room / Topic | Focus Area | Link |
+|---|---|---|
+| SOC Level 1 Alert Triage | Alert triage, evidence review, false positive analysis, true positive escalation, remediation | [View Writeup](writeups/alert-triage/README.md) |
 
 ## Purpose
 
@@ -40,7 +46,7 @@ To keep this professional and ethical, this repository will not include:
 
 ## Writeup Format
 
-Each writeup will follow this structure:
+Each writeup will generally follow this structure:
 
 1. Room Name
 2. Objective
@@ -48,9 +54,10 @@ Each writeup will follow this structure:
 4. Tools Used
 5. Key Evidence
 6. Analysis
-7. MITRE ATT&CK Mapping
-8. Recommended Remediation
-9. Lessons Learned
+7. Findings
+8. MITRE ATT&CK Mapping
+9. Recommended Remediation
+10. Lessons Learned
 
 ## Current Focus
 
