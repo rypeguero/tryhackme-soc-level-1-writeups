@@ -14,7 +14,7 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 >
 > This writeup documents how I reviewed multiple alerts, compared alert severity against the available evidence, and made triage decisions based on context. It includes examples of benign activity, suspicious file behavior, MITRE ATT&CK mapping, and recommended remediation steps.
 >
-> [View Writeup](writeups/alert-triage/README.md)
+> [View Writeup](writeups/alert-triage.md)
 
 ---
 
@@ -24,7 +24,7 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 >
 > This writeup documents two alert reports: one involving a phishing email detected after delivery and another involving suspicious domain discovery activity from a compromised host. The goal was to explain what happened, what evidence supported the decision, and why escalation was appropriate.
 >
-> [View Writeup](writeups/alert-reporting/README.md)
+> [View Writeup](writups/alert-reporting.md)
 
 ---
 
