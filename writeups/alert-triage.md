@@ -10,7 +10,7 @@ This exercise involved reviewing multiple alerts from an alert management queue.
 
 The purpose of the triage process was to avoid relying only on alert severity and instead make decisions based on evidence, business context, and suspicious indicators.
 
-![SOC alert triage dashboard screenshot](images/alert-triage-summary.png)
+![SOC alert triage dashboard screenshot](../alert-triage/images/alert-triage-summary.png)
 
 *Figure 1: Alert triage queue reviewed during the investigation.*
 
