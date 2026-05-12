@@ -28,6 +28,10 @@ The goal was to explain what happened, what evidence supported the decision, and
 
 # Alert 1: Email Marked as Phishing After Delivery
 
+![Phishing email alert details](screenshots/alert-reporting/phishing-email-alert.png)
+
+*Figure 1: Phishing email alert showing failed SPF/DKIM checks and suspicious attachment.*
+
 ## Alert Summary
 
 | Field | Details |
@@ -99,6 +103,10 @@ This alert was assessed as a true positive phishing email.
 ---
 
 # Alert 2: Spike of Domain Discovery Commands
+
+![Domain discovery alert details](screenshots/alert-reporting/domain-discovery-alert.png)
+
+*Figure 2: Domain discovery alert showing suspicious process chain and discovery commands.*
 
 ## Alert Summary
 
