@@ -8,7 +8,7 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 
 | Room / Topic | Focus Area | Link |
 |---|---|---|
-| SOC Level 1 Alert Triage | Alert triage, evidence review, false positive analysis, true positive escalation, remediation | [View Writeup](writeups/alert-triage.md) |
+| SOC Level 1 Alert Triage | Alert triage, evidence review, false positive analysis, true positive escalation, remediation | [View Writeup](writups/alert-triage.md) |
 
 ## Purpose
 
