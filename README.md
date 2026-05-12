@@ -4,11 +4,29 @@ This repository documents selected writeups from my TryHackMe SOC Level 1 learni
 
 These writeups focus on reasoning, analysis, remediation, and lessons learned. They do not include TryHackMe flags, direct room answers, or step-by-step solution dumps.
 
+---
+
 ## Published Writeups
 
-| Room / Topic | Focus Area | Link |
-|---|---|---|
-| SOC Level 1 Alert Triage | Alert triage, evidence review, false positive analysis, true positive escalation, remediation | [View Writeup](writups/alert-triage.md) |
+### SOC Level 1 Alert Triage
+
+> **Focus:** Alert triage, evidence review, false positive analysis, true positive escalation, and remediation.  
+>
+> This writeup documents how I reviewed multiple alerts, compared alert severity against the available evidence, and made triage decisions based on context. It includes examples of benign activity, suspicious file behavior, MITRE ATT&CK mapping, and recommended remediation steps.
+>
+> [View Writeup](writeups/alert-triage/README.md)
+
+---
+
+### SOC Level 1 Alert Reporting
+
+> **Focus:** Phishing email reporting, failed email authentication checks, suspicious attachment review, process chain analysis, domain discovery commands, and escalation decisions.  
+>
+> This writeup documents two alert reports: one involving a phishing email detected after delivery and another involving suspicious domain discovery activity from a compromised host. The goal was to explain what happened, what evidence supported the decision, and why escalation was appropriate.
+>
+> [View Writeup](writeups/alert-reporting/README.md)
+
+---
 
 ## Purpose
 
