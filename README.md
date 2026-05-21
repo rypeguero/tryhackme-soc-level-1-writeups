@@ -24,7 +24,7 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 >
 > This writeup documents two alert reports: one involving a phishing email detected after delivery and another involving suspicious domain discovery activity from a compromised host. The goal was to explain what happened, what evidence supported the decision, and why escalation was appropriate.
 >
-> [View Writeup](writups/alert-reporting.md)
+> [View Writeup](writeups/alert-reporting.md)
 
 ---
 
