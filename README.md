@@ -28,6 +28,16 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 
 ---
 
+### Health Hazard SIEM Investigation
+
+> **Focus:** Supply chain compromise, npm package investigation, Sysmon process lineage, encoded PowerShell, DNS review, Registry Run key persistence, and MITRE ATT&CK mapping.  
+>
+> This writeup documents a threat hunting simulation where a suspicious npm package triggered hidden encoded PowerShell, contacted a suspicious update-themed domain, and established Windows Registry Run key persistence for a staged payload.
+>
+> [View Writeup](writeups/health-hazard.md)
+
+---
+
 ## Purpose
 
 This repository is designed to help me build and demonstrate SOC analyst skills, including:
