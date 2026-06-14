@@ -6,7 +6,7 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 
 ---
 
-## Published Writeups
+## Lesson Writeups
 
 ### SOC Level 1 Alert Triage
 
@@ -28,13 +28,15 @@ These writeups focus on reasoning, analysis, remediation, and lessons learned. T
 
 ---
 
+## SIEM Investigations
+
 ### Health Hazard SIEM Investigation
 
 > **Focus:** Supply chain compromise, npm package investigation, Sysmon process lineage, encoded PowerShell, DNS review, Registry Run key persistence, and MITRE ATT&CK mapping.  
 >
 > This writeup documents a threat hunting simulation where a suspicious npm package triggered hidden encoded PowerShell, contacted a suspicious update-themed domain, and established Windows Registry Run key persistence for a staged payload.
 >
-> [View Writeup](writeups/health-hazard.md)
+> [View Investigation](siem-investigations/health-hazard.md)
 
 ---
 
@@ -48,20 +50,21 @@ This repository is designed to help me build and demonstrate SOC analyst skills,
 - Endpoint investigation
 - Network traffic review
 - Threat intelligence research
+- SIEM investigation
 - MITRE ATT&CK mapping
 - Containment and remediation recommendations
 - Clear incident documentation
 
 ## What This Repository Will Include
 
-I will only publish selected rooms that show real analyst thinking. Each writeup will focus on:
+I will only publish selected rooms and investigations that show real analyst thinking. Each writeup will focus on:
 
 - What the scenario involved
 - What evidence was reviewed
 - What indicators were suspicious
 - How I reached my conclusion
 - What remediation steps I would recommend
-- What I learned from the room
+- What I learned from the room or investigation
 
 ## What This Repository Will Not Include
 
@@ -76,7 +79,7 @@ To keep this professional and ethical, this repository will not include:
 
 Each writeup will generally follow this structure:
 
-1. Room Name
+1. Room Name or Investigation Name
 2. Objective
 3. Scenario Summary
 4. Tools Used
@@ -89,7 +92,7 @@ Each writeup will generally follow this structure:
 
 ## Current Focus
 
-I am currently working through SOC Level 1 content and documenting selected rooms that best demonstrate skills related to:
+I am currently working through SOC Level 1 content and documenting selected rooms and SIEM investigations that best demonstrate skills related to:
 
 - SIEM investigation
 - Phishing analysis
